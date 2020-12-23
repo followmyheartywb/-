@@ -1,3 +1,2 @@
 # -
-试验库
-siguoyi
+Pytorch深度学习入门代码
